@@ -27,3 +27,5 @@ This is a mobile application built with React Native that allows users to input 
    ```bash
    git clone https://github.com/yourusername/sudoku-solver.git
    cd sudoku-solver
+2. run the app locally using Expo go
+   npx expo start
